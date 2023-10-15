@@ -1,6 +1,5 @@
 # bioelectricity-Datasets
 
-[toc]
 
 ### 情绪识别
 
