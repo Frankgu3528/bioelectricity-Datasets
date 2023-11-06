@@ -79,7 +79,3 @@
 * [精神分裂症数据集](http://brain.bio.msu.ru/eeg_schizophrenia.htm)。数据集为健康青少年和被诊断为精神分裂症青少年的EEG数据.
 * [kaggle精神分裂](https://www.kaggle.com/broach/button-tone-sz). 该数据集为精神分裂症患者执行基本感觉任务的EEG 数据。
 
-### 参考
-
-* https://zhuanlan.zhihu.com/p/508338182
-* https://github.com/meagmohit/EEG-Datasets
